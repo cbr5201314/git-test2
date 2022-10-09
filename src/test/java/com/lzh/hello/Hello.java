@@ -9,6 +9,6 @@ public class Hello {
         System.out.println("陈冰茹,GUNDUZI");
         System.out.println("陈冰茹,滚犊子");
         System.out.println("woshjhotfix");
-        System.out.println("我喜欢你");
+        System.out.println("woshjhotfix");
     }
 }
